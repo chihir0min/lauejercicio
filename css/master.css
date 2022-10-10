@@ -1,0 +1,102 @@
+html{
+  background: rgb(255,55,136);
+background: radial-gradient(circle, rgba(255,55,136,1) 0%, rgba(255,135,224,1) 22%, rgba(255,255,255,1) 71%)
+
+}
+
+body{
+  width: 700px;
+  margin: 0 auto;
+  background-color: white;
+padding: 0 20px 20px 20px;
+border: 7px white;
+}
+/*titulos a continuación*/
+h1.kali {
+  margin: 0;
+  padding: 20px 0;
+  color: #FF69B4;
+  text-transform: full-width;
+  text-align: center;
+  text-shadow: 3px 3px 5px lightgrey;
+}
+h2.sinmiedo {
+  margin: 0;
+  padding: 20px 0;
+  color: #DDA0DD;
+  text-transform: inherit;
+  text-align: left;
+}
+h2.alive {
+  margin: 0;
+  padding: 20px 0;
+  color: #89CFF0;
+  text-transform: inherit;
+  text-align: right;
+}
+h2.isolation {
+  margin: 0;
+  padding: 20px 0;
+  color: #0000FF;
+  text-transform: inherit;
+  text-align: left;
+}
+h2.porvida {
+  margin: 0;
+  padding: 20px 0;
+  color: #F9629F;
+  text-transform: inherit;
+  text-align: right;
+
+}
+h2.drunken {
+  margin: 0;
+  padding: 20px 0;
+  color: #72A0C1;
+  text-transform: inherit;
+  text-align: center;
+}
+/*imagenes a continuación*/
+img.alive {
+  display: block;
+  margin: 0 auto;
+  height: 300px;
+  align-items: center;
+}
+img.drunken {
+  display: block;
+  margin: 0 auto;
+  height: 300px;
+  align-items: center;
+}
+img.porvida {
+  display: block;
+  margin: 0 auto;
+  height: 300px;
+  align-items: center;
+}
+img.isolation {
+  display: block;
+  margin: 0 auto;
+  height: 300px;
+  align-items: center;
+}
+img.sinmiedo{
+  display: block;
+  margin: 0 auto;
+  height: 300px;
+  align-items: center;
+}
+img.uchis{
+  display: block;
+  margin: 0 auto;
+  height: 700px;
+  align-items: center;
+}
+
+img.logo{
+  display: block;
+  margin: 0 auto;
+  height: 100px;
+  align-items: center;
+}
